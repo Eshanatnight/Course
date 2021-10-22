@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "\"*.cpp\"": "\"cpp\"",
+        "\"*.c\"": "\"c\"",
+        "\"*.py\"": "\"python\"",
+        "\"*.html\"": "\"html\"",
+        "\"*.css\"": "\"css\"",
+        "\"*.h\"": "\"c\"",
+        "\"*.hpp\"": "\"cpp\"",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "cstdint": "c",
+        "typeinfo": "c",
+        "ostream": "cpp"
+    }
+}
