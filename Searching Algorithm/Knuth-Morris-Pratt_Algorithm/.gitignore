@@ -1,0 +1,10 @@
+# IDE and Text Editor Files
+/.vs
+/.idea
+/.vscode
+
+# Binaries
+*.exe
+/build
+/bin
+/out

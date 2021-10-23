@@ -1,0 +1,16 @@
+# IDE and Text Editor Files
+/.vs
+/.idea
+/.vscode
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Binaries
+*.exe
+/build
+/bin
+/out
+
+
