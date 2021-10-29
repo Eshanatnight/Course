@@ -1,0 +1,17 @@
+#IDE Text Editor FIles
+/.vs
+/.vscode
+/.idea
+
+# MS Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+
+#Binaries
+/bin
+*.exe
+/cmake-build-debug
+/cmake-build-release
