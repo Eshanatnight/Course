@@ -1,5 +1,0 @@
-D:\College\Data Structures And Algorithms\N-Queens\N-Queens\Debug\N-Queens.exe
-D:\College\Data Structures And Algorithms\N-Queens\N-Queens\Debug\N-Queens.pdb
-D:\dev\College\Data Structures And Algorithms\N-Queens\N-Queens\Debug\N-Queens.exe
-D:\dev\College\Data Structures And Algorithms\N-Queens\N-Queens\Debug\N-Queens.pdb
-D:\dev\N-Queens\N-Queens\Debug\N-Queens.exe
