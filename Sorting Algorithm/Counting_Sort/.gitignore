@@ -1,0 +1,7 @@
+# IDE And Text Editor
+/.vscode
+/.vs
+/.idea
+
+# Binaries
+*.exe
